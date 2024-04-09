@@ -1,2 +1,2 @@
 # Counties in Kentucky with classified land covering
-(Layout1.jpg)
+[Kentucky](Layout1.jpg)
